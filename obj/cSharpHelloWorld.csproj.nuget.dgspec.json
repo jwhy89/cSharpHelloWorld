@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/cSharpHelloWorld.csproj": {}
+  },
+  "projects": {
+    "/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/cSharpHelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/cSharpHelloWorld.csproj",
+        "projectName": "cSharpHelloWorld",
+        "projectPath": "/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/cSharpHelloWorld.csproj",
+        "packagesPath": "/Users/jarvisyang/.nuget/packages/",
+        "outputPath": "/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jarvisyang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

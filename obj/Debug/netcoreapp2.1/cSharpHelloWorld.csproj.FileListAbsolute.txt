@@ -1,0 +1,11 @@
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.csprojAssemblyReference.cache
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.csproj.CoreCompileInputs.cache
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.AssemblyInfoInputs.cache
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.AssemblyInfo.cs
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.deps.json
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.runtimeconfig.json
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.runtimeconfig.dev.json
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.dll
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/bin/Debug/netcoreapp2.1/cSharpHelloWorld.pdb
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.dll
+/Users/jarvisyang/Documents/Test-Files/cSharpHelloWorld/obj/Debug/netcoreapp2.1/cSharpHelloWorld.pdb
